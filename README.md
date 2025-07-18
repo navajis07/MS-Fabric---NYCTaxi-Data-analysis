@@ -91,8 +91,8 @@ I was responsible for:
 
 For questions or collaboration:  
 **[Navajis Khan]** — Data Analyst  
-📧 your.navajiskhan10012002@gmail.com  
-🔗 [LinkedIn Profile](www.linkedin.com/in/navajis129)
+📧 navajiskhan10012002@gmail.com  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/navajis129)
 
 ---
 
