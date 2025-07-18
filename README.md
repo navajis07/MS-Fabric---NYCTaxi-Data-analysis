@@ -41,37 +41,31 @@ I was responsible for:
 
 ### 1. Lakehouse Creation  
 *Lakehouse environment showing ingested NYC taxi datasets organized in folders and tables.*  
-![Lakehouse Screenshot](./screenshots/lakehouse.png)
+![Lakehouse Screenshot](https://github.com/navajis07/MS-Fabric---NYCTaxi-Data-analysis/blob/main/Images/Screenshot%202025-07-18%20152318.png)
 
 ---
 
 ### 2. Warehouse Setup  
 *Schema view of tables in the Microsoft Fabric Warehouse used for structured querying.*  
-![Warehouse Screenshot](./screenshots/warehouse.png)
+![Warehouse Screenshot](https://github.com/navajis07/MS-Fabric---NYCTaxi-Data-analysis/blob/main/Images/Screenshot%202025-07-18%20152606.png)
 
 ---
 
 ### 3. Data Pipelines  
 *Data pipeline flow designed to automate the ingestion and transformation of monthly ride data.*  
-![Pipeline Screenshot](./screenshots/pipeline.png)
+![Pipeline Screenshot](https://github.com/navajis07/MS-Fabric---NYCTaxi-Data-analysis/blob/main/Images/Screenshot%202025-07-18%20152803.png)
 
 ---
 
 ### 4. Dataflow Gen2  
 *Dataflow Gen2 displaying applied transformation steps for cleaning and enriching raw taxi data.*  
-![Dataflow Screenshot](./screenshots/dataflow.png)
+![Dataflow Screenshot](https://github.com/navajis07/MS-Fabric---NYCTaxi-Data-analysis/blob/main/Images/Screenshot%202025-07-18%20152933.png)
 
 ---
 
 ### 5. Power BI Report  
 *Interactive Power BI dashboard visualizing revenue, trips, payment methods, and vendor activity.*  
-![Power BI Dashboard](./screenshots/dashboard.png)
-
----
-
-### 6. Dashboard Filters and Insights  
-*Advanced filtering by vendor, payment type, and date range, supporting deep data exploration.*  
-![Filters Screenshot](./screenshots/filters.png)
+![Power BI Dashboard](https://github.com/navajis07/MS-Fabric---NYCTaxi-Data-analysis/blob/main/Images/Screenshot%202025-07-18%20152936.jpg)
 
 ---
 
@@ -96,9 +90,9 @@ I was responsible for:
 ## 📬 Contact
 
 For questions or collaboration:  
-**[Your Name]** — Data Analyst  
-📧 your.email@example.com  
-🔗 [LinkedIn Profile](https://linkedin.com/in/yourprofile)
+**[Navajis Khan]** — Data Analyst  
+📧 your.navajiskhan10012002@gmail.com  
+🔗 [LinkedIn Profile](www.linkedin.com/in/navajis129)
 
 ---
 
